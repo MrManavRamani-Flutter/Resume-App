@@ -54,7 +54,6 @@ class _MyAppState extends State<MyApp> {
         'resume': (context) => Resume(),
       },
       debugShowCheckedModeBanner: false,
-      // home: Home_Page(),
     );
   }
 }
